@@ -17,15 +17,15 @@
                 </nav>
                 <nav class="nav-square">
                     <ul>
-                        <li><a href="/resume" class="fa-solid fa-file"><span class="label">Resume</span></a></li>
-                        <li><a href="/projects" class="fa-solid fa-code"><span class="label">Projects</span></a></li>
+                        <li><a href="/resume" class="fa-solid fa-file" data-text="Resume"><span class="icon"></span><span class="label">Resume</span></a></li>
+                        <li><a href="/projects" class="fa-solid fa-code" data-text="Projects"><span class="icon"></span><span class="label">Projects</span></a></li>
                     </ul>
                 </nav>
             </header>
 
         <!-- Footer -->
             <footer id="footer">
-                <span class="copyright">&copy; Design: <a href="http://html5up.net">HTML5 UP</a>.</span>
+                <span class="copyright">&copy; Design: <a href="http://html5up.net">HTML5 UP</a></span>
             </footer>
 
     </div>
