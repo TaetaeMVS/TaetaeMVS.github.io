@@ -11,7 +11,18 @@
 		%sveltekit.head%
 	</head>
 	<body data-sveltekit-preload-data="hover">
+		<div id="wrapper">
+    <div id="bg"></div>
+    <div id="overlay"></div>
+    <div id="main">
+		
 		<div style="display: contents">%sveltekit.body%</div>
+        <!-- Footer -->
+        <footer id="footer">
+            <span class="copyright">&copy; Design: <a href="http://html5up.net">HTML5 UP</a></span>
+        </footer>
+		</div>
+		</div>
 		<script>
 		window.onload = function() { document.body.classList.remove('is-preload'); }
 		window.ontouchmove = function() { return false; }
