@@ -26,8 +26,16 @@
     margin-right: 0.5em;
 }
 
-#header .nav-square .label {
+#header .nav-square .resume-label {
     display: inline;
     position: absolute; /* added */
     left: 3em; /* adjust as needed to position the text directly after the icon */
+    letter-spacing: 0.1em;
+}
+
+#header .nav-square .projects-label {
+    display: inline;
+    position: absolute;
+    left: 2em;
+    letter-spacing: 0.1em;
 }

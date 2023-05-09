@@ -15,8 +15,8 @@
     </nav>
     <nav class="nav-square">
         <ul>
-            <li><a href="/resume" class="fa-solid fa-file" data-text="Resume"><span class="icon"></span><span class="label">Resume</span></a></li>
-            <li><a href="/projects" class="fa-solid fa-code" data-text="Projects"><span class="icon"></span><span class="label">Projects</span></a></li>
+            <li><a href="/resume" class="fa-solid fa-file" data-text="Resume"><span class="icon"></span><span class="resume-label">Resume</span></a></li>
+            <li><a href="/projects" class="fa-solid fa-code" data-text="Projects"><span class="icon"></span><span class="projects-label">Projects</span></a></li>
         </ul>
     </nav>
 </header>
